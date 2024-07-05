@@ -26,4 +26,4 @@ npm run start
    
 ![image](https://github.com/orjoonadhikari/AWS/assets/47244258/de871bfd-2cc0-49d8-b9d0-37e3ddfbdb3f)
 
-## use <public IP>:<port no> on browser to access the app from you device
+## use '<public IP>:<port no>' on browser to access the app from you device
